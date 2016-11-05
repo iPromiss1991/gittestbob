@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    [self printtest1];
+    // Do any additional se1tup after loading the view, typically from a nib.
 }
 
 
