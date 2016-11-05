@@ -20,6 +20,11 @@
 }
 
 
+-(void)printtest1{
+    
+    NSLog(@"wwww");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
