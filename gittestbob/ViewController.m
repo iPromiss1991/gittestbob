@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self printtest1];
+    [self printtest2];
     // Do any additional se1tup after loading the view, typically from a nib.
 }
 
@@ -25,6 +25,12 @@
 -(void)printtest1{
     
     NSLog(@"wwww");
+}
+
+
+-(void)printtest2{
+    
+    NSLog(@"343434");
 }
 
 - (void)didReceiveMemoryWarning {
